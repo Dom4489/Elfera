@@ -2,7 +2,7 @@
 ## ELFAERA Eyelids - Batch One is now sold out. 🙌
 
 ## Local Car Kits E-Commerce Platform  
-🔗 **Live Site:** *elfaera.com*  
+🔗 **Live Site:** *[elfaera.com](https://elfaera.com/)*  
 
 ### Inspiration 💡  
 A local small business selling custom **car kits** needed a modern e-commerce platform that could support **mobile shoppers**, **international customers**, and **secure payments** without relying on expensive or inflexible third-party solutions. I built a **custom full-stack e-commerce website** tailored to the business’s needs, focusing on cost performance, scalability, and ease of product management.
