@@ -1,5 +1,4 @@
 # Elfera
-## ELFAERA Eyelids - Batch One is now sold out. 🙌
 
 ## Local Car Kits E-Commerce Platform  
 🔗 **Live Site:** *[elfaera.com](https://elfaera.com/)*  
